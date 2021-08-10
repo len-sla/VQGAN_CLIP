@@ -39,5 +39,5 @@ All tributes to above authors I just went through to see how quickly new GAN CLI
 
 
 ### Contact
-Created by: _len.sla_
+Checked by: _len.sla_
 
