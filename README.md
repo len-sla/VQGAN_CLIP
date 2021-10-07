@@ -39,5 +39,5 @@ All tributes to above authors I just went through to see how quickly new GAN CLI
 
 
 ### Contact
-Checked by: _lencz.sla@gmail.com_
+created by: _lencz.sla@gmail.com_
 
