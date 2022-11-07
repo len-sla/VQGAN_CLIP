@@ -33,7 +33,8 @@ All tributes to above authors I just went through to see how quickly new GAN CLI
 
 
 
-
+After a bit more than a year much more is possible Lets look at the project pf
+[dreambooth](https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/sd_dreambooth_training.ipynb)
 
 
 
